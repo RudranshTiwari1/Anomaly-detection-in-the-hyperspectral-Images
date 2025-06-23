@@ -37,7 +37,17 @@ This project focuses on **anomaly detection in hyperspectral images** using both
 ```bash
 git clone https://github.com/RudranshTiwari1/Hyperspectral-Anomaly-Detection.git
 cd Hyperspectral-Anomaly-Detection
+```
+
+### Step 2: Install Dependencies
+```bash
 pip install numpy matplotlib scipy scikit-learn tensorflow
+```
+
+### Step 3: Run Autoencoder
+```bash
 python AnamolyMap.py
-Run RX Anomaly Detector by running this command
+```
+
+### Step 4: Run RX Anomaly Detector
 Open _op.ipynb in Jupyter Notebook and run all cells.
